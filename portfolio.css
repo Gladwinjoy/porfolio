@@ -1,0 +1,63 @@
+body{
+    background: white;
+}
+.h{
+    height: 50px;
+    width: 100%
+}
+.logo{
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    background-image: url('C:/Users/gladw/OneDrive/Desktop/Techwingsys/portfolio/logo.png');
+}
+.in{
+    margin-top: 0px;
+    height: 50px;
+    width: 400px;
+    margin-left: 950px;
+    color: black;
+}
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+button{
+    background: none;
+    border: none;
+    color: black;
+    font-family: cursive;
+    font-size: 15px;
+}
+.button:hover{
+    border-radius: 1px;
+}
+.container{
+    margin-top: -30px;
+    display: flex;
+    color: black;
+}
+.head{
+    margin-top: 60px;
+    width: 600px;
+    height: 250px;
+    margin-left: 100px;
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    color: black;
+}
+.img{
+    margin-left: 200px;
+    margin-top: 68px;
+    width: 500px;
+    height: 600px;
+    background-image: url('C:/Users/gladw/OneDrive/Desktop/Techwingsys/portfolio/picb.png');
+    background-size: cover;
+    transition: transform 0.5s;
+}
+.img:hover{
+    transform: scale(1.2);
+}
