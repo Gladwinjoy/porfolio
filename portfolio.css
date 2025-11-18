@@ -10,7 +10,7 @@ body{
     height: 50px;
     width: 50px;
     background-size: cover;
-    background-image: url('C:/Users/gladw/OneDrive/Desktop/Techwingsys/portfolio/logo.png');
+    background-image: url('logo.png');
 }
 .in{
     margin-top: 0px;
@@ -54,7 +54,7 @@ button{
     margin-top: 68px;
     width: 500px;
     height: 600px;
-    background-image: url('C:/Users/gladw/OneDrive/Desktop/Techwingsys/portfolio/picb.png');
+    background-image: url('picb.png');
     background-size: cover;
     transition: transform 0.5s;
 }
